@@ -1,2 +1,3 @@
 # IP_Libs
-An Matlab Libs for the inverted pendulum
+An Matlab library for the inverted pendulum<br>
+
